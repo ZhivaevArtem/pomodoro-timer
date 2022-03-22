@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1697f935.css","mappings":"AAAA,OAEE,qBAKA,WAJA,YAFA,YAKA,kBAEA,UAHA,8CADA,kEAIA","sources":["index.scss"],"sourcesContent":[".hello {\n  padding: 8px;\n  border: 2px solid red;\n  margin: 24px;\n  width: fit-content;\n  transform: scale(3);\n  position: relative;\n  left: 300px;\n  top: 200px;\n}\n"],"names":[],"sourceRoot":""}
